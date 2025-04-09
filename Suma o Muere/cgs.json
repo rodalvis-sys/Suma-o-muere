@@ -2,7 +2,7 @@
   "name": "Suma o Muere",
   "allCardsUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Suma%20o%20Muere/AllCards.json",
   "allSetsUrl": "",
-  "autoUpdateUrl": "",
+  "autoUpdateUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Suma%20o%20Muere/cgs.json",
   "bannerImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Suma%20o%20Muere/Banner.png",
   "cardBackFaceImageUrls": [
     {
@@ -19,17 +19,23 @@
       "type": "string"
     }
   ],
-  "cardSize": {
-    "x": 3.0,
-    "y": 4.2
-  },
+  "cgsGamesLink": "",
   "deckUrls": [
     {
       "name": "Mesa SoM",
       "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Suma%20o%20Muere/decks/Mesa%20SoM.txt"
     }
   ],
-  "enums": [],
+  "enums": [
+    {
+      "property": "description",
+      "values": {
+        "attack": "Attack",
+        "defense": "Defense",
+        "special": "Special"
+      }
+    }
+  ],
   "gamePlayDeckName": "Deck",
   "gameStartDecks": [
     {

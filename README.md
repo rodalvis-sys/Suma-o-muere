@@ -1,4 +1,4 @@
-# Sumar o Morir
+# Suma o Muere
 
 # Juego de Estrategia Matemática
 

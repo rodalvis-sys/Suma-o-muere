@@ -1,77 +1,39 @@
 {
-    "name": "Sumar o Morir",
-    "allCardsUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/AllCards.json",
-    "allCardsUrlPageCount": 1,
-    "allCardsUrlPageCountIdentifier": "",
-    "allCardsUrlPageCountDivisor": 1,
-    "allCardsUrlPageCountStartIndex": 1,
-    "allCardsUrlPageIdentifier": "?page=",
-    "allCardsUrlPostBodyContent": "",
-    "allCardsUrlRequestHeader": "X-Api-Key",
-    "allCardsUrlRequestHeaderValue": "",
-    "allCardsUrlWrapped": false,
-    "allCardsUrlZipped": false,
-    "deckUrls": [
-        {
-            "name": "Mesa SoM",
-            "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/decks/Mesa%20SoM.txt",
-            "type": "text"
-        }
-    ],
-    "bannerImageFileType": "png",
-    "bannerImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/Banner.png",
-    "cardBackFaceImageUrls": [],
-    "cardBackImageFileType": "png",
-    "cardBackImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/CardBack.png",
-    "cardImageFileType": "png",
-    "cardImageUrls": {
-        "-1": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/-1.png",
-        "-2": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/-2.png",
-        "-3": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/-3.png",
-        "Anular": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/Anular.png",
-        "Bloqueo": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/Bloqueo.png",
-        "Cambio_de_signo_": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/Cambio_de_signo_.png",
-        "Descartar": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/Descartar.png",
-        "Doble_turno_": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/Doble_turno_.png",
-        "Intercambio_de_puntos_": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/Intercambio_de_puntos_.png",
-        "Protección": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/Protección.png",
-        "Reinicio_parcial_": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/Reinicio_parcial_.png",
-        "Robar_puntos_": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/Robar_puntos_.png",
-        "x2": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/x2.png",
-        "x3": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/x3.png",
-        "÷2": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/÷2.png",
-        "÷3": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/÷3.png",
-        "m3": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/m3.png",
-        "m2": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/m2.png",
-        "m1": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/m1.png"
-    },
-    "cardIdIdentifier": "id",
-    "cardNameIdentifier": "name",
-    "cardNameIsUnique": true,
-    "cardPrimaryProperty": "description",
-    "cardProperties": [
-        {
-            "name": "description",
-            "type": "string",
-            "display": "Description",
-            "displayEmpty": "",
-            "displayEmptyFirst": false,
-            "delimiter": "",
-            "backName": "",
-            "frontName": "",
-            "properties": []
-        }
-    ],
-    "cardSize": {
-        "x": 2.5,
-        "y": 3.5
-    },
-    "playMatSize": {
-        "x": 36.0,
-        "y": 36.0
-    },
-    "playMatGridCellSize": {
-        "x": 0.5,
-        "y": 0.5
+  "name": "Sumar o Morir",
+  "allCardsUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/AllCards.json",
+  "allSetsUrl": "",
+  "autoUpdateUrl": "",
+  "bannerImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/Banner.png",
+  "cardBackFaceImageUrls": [
+    {
+      "id": "DEFAULT_BACK",
+      "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/CardBack.png"
     }
+  ],
+  "cardBackImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/CardBack.png",
+  "cardImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/{cardId}.png",
+  "cardProperties": [
+    {
+      "name": "description",
+      "display": "Description",
+      "type": "string"
+    }
+  ],
+  "deckUrls": [
+    {
+      "name": "Mesa SoM",
+      "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/decks/Mesa%20SoM.txt"
+    }
+  ],
+  "enums": [],
+  "gamePlayDeckName": "Deck",
+  "gameStartDecks": [
+    {
+      "name": "Mesa SoM",
+      "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/decks/Mesa%20SoM.txt"
+    }
+  ],
+  "gameStartHandCount": 2,
+  "name": "Sumar o Morir",
+  "rulesUrl": ""
 }

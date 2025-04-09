@@ -1,102 +1,42 @@
 {
-    "name": "Suma o Muere",
-    "allCardsUrl": null,
-    "allCardsUrlPageCount": 1,
-    "allCardsUrlPageCountIdentifier": "",
-    "allCardsUrlPageCountDivisor": 1,
-    "allCardsUrlPageCountStartIndex": 1,
-    "allCardsUrlPageIdentifier": "?page=",
-    "allCardsUrlPostBodyContent": "",
-    "allCardsUrlRequestHeader": "X-Api-Key",
-    "allCardsUrlRequestHeaderValue": "",
-    "allCardsUrlWrapped": false,
-    "allCardsUrlZipped": false,
-    "allDecksUrl": null,
-    "allDecksUrlDataIdentifier": "",
-    "allDecksUrlPostBodyContent": "",
-    "allDecksUrlTxtRoot": "",
-    "allSetsUrl": null,
-    "allSetsUrlWrapped": false,
-    "allSetsUrlZipped": false,
-    "autoUpdate": 30,
-    "autoUpdateUrl": null,
-    "bannerImageFileType": "png",
-    "bannerImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/Banner.png",
-    "cardBackFaceImageUrls": [],
-    "cardBackImageFileType": "png",
-    "cardBackImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/CardBack.png",
-    "cardDataIdentifier": "",
-    "cardIdIdentifier": "id",
-    "cardIdStop": "",
-    "cardImageFileType": "png",
-    "cardImageProperty": "",
-    "cardImageUrl": "",
-    "cardNameBackIdentifier": "",
-    "cardNameIdentifier": "name",
-    "cardNameIsUnique": true,
-    "cardPrimaryProperty": "description",
-    "cardProperties": [
-        {
-            "name": "description",
-            "type": "string",
-            "display": "Description",
-            "displayEmpty": "",
-            "displayEmptyFirst": false,
-            "delimiter": "",
-            "backName": "",
-            "frontName": "",
-            "properties": []
-        }
-    ],
-    "cardPropertyIdentifier": "id",
-    "cardRotationDefault": 0,
-    "cardRotationIdentifier": "",
-    "cardSetIdentifier": "set",
-    "cardSetIsObject": false,
-    "cardSetNameIdentifier": "setname",
-    "cardSetsInList": false,
-    "cardSetsInListIsCsv": false,
-    "cardSize": {
-        "x": 3.0,
-        "y": 4.2
-    },
-    "cgsGamesLink": null,
-    "copyright": "Atoky",
-    "deckFileAltId": "dbfId",
-    "deckFileTxtId": "set",
-    "deckFileType": "txt",
-    "deckPlayCards": [],
-    "deckSharePreference": "share",
-    "deckUrls": [],
-    "enums": [],
-    "extras": [],
-    "gameBoardImageFileType": "png",
-    "gameBoardCards": [],
-    "gameBoardUrls": [],
-    "gameCardRotationDegrees": 90,
-    "gameDefaultCardAction": "flip",
-    "gamePlayDeckName": "",
-    "gamePlayDeckPositions": [],
-    "gamePlayZones": [],
-    "gameStartDecks": [],
-    "gameStartHandCount": 0,
-    "gameStartPointsCount": 0,
-    "playMatImageFileType": "png",
-    "playMatImageUrl": null,
-    "playMatSize": {
-        "x": 36.0,
-        "y": 36.0
-    },
-    "playMatGridCellSize": {
-        "x": 0.5,
-        "y": 0.5
-    },
-    "rulesUrl": "https://github.com/rodalvis-sys/Suma-o-muere/blob/main/README.md",
-    "setCardsIdentifier": "cards",
-    "setCardsUrlIdentifier": "cardsUrl",
-    "setCodeDefault": "_CGSDEFAULT_",
-    "setCodeIdentifier": "code",
-    "setDataIdentifier": "",
-    "setNameDefault": "_CGSDEFAULT_",
-    "setNameIdentifier": "name"
+  "name": "Suma o Muere",
+  "allCardsUrl": "https://github.com/rodalvis-sys/Suma-o-muere/blob/main/Suma%20o%20Muere/AllCards.json",
+  "allSetsUrl": "",
+  "autoUpdateUrl": "",
+  "bannerImageUrl": "https://github.com/rodalvis-sys/Suma-o-muere/blob/main/Suma%20o%20Muere/Banner.png",
+  "cardBackFaceImageUrls": [
+    {
+      "id": "DEFAULT_BACK",
+      "url": "https://github.com/rodalvis-sys/Suma-o-muere/blob/main/Suma%20o%20Muere/CardBack.png"
+    }
+  ],
+  "cardBackImageUrl": "https://github.com/rodalvis-sys/Suma-o-muere/blob/main/Suma%20o%20Muere/CardBack.png",
+  "cardImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/refs/heads/main/Suma%20o%20Muere/sets/suma%20o%20muere/{cardId}.png",
+  "cardProperties": [
+    {
+      "name": "description",
+      "display": "Description",
+      "type": "string"
+    }
+  ],
+  "cardSize": {
+    "x": 3.0,
+    "y": 4.2
+  },
+  "deckUrls": [
+    {
+      "name": "Mesa SoM",
+      "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/refs/heads/main/Suma%20o%20Muere/decks/Mesa%20SoM.txt"
+    }
+  ],
+  "enums": [],
+  "gamePlayDeckName": "Deck",
+  "gameStartDecks": [
+    {
+      "name": "Mesa SoM",
+      "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/refs/heads/main/Suma%20o%20Muere/decks/Mesa%20SoM.txt"
+    }
+  ],
+  "gameStartHandCount": 5,
+  "rulesUrl": "https://github.com/rodalvis-sys/Suma-o-muere/blob/main/README.md"
 }

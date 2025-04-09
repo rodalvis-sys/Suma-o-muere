@@ -1,5 +1,4 @@
-# Suma-o-muere
-Un juego rápido de estrategia matemática donde cada carta puede cambiar tu destino.
+# Sumar o Morir
 
 # Juego de Estrategia Matemática
 

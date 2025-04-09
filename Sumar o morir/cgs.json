@@ -1,5 +1,5 @@
 {
-    "name": "Suma o muere",
+    "name": "Sumar o Morir",
     "allCardsUrl": null,
     "allCardsUrlPageCount": 1,
     "allCardsUrlPageCountIdentifier": "",
@@ -34,12 +34,12 @@
     "cardNameBackIdentifier": "",
     "cardNameIdentifier": "name",
     "cardNameIsUnique": true,
-    "cardPrimaryProperty": "5",
+    "cardPrimaryProperty": "description",
     "cardProperties": [
         {
-            "name": "5",
+            "name": "description",
             "type": "string",
-            "display": "5",
+            "display": "Description",
             "displayEmpty": "",
             "displayEmptyFirst": false,
             "delimiter": "",
@@ -79,7 +79,7 @@
     "gamePlayDeckPositions": [],
     "gamePlayZones": [],
     "gameStartDecks": [],
-    "gameStartHandCount": 5,
+    "gameStartHandCount": 0,
     "gameStartPointsCount": 0,
     "playMatImageFileType": "png",
     "playMatImageUrl": null,

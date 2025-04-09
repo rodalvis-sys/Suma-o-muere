@@ -20,7 +20,7 @@
     "cardBackImageFileType": "png",
     "cardBackImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/CardBack.png",
     "cardImageFileType": "png",
-    "cardImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/sets/sumar%20o%20morir/{id}.png",
+    "cardImageUrl": "",
     "cardIdIdentifier": "id",
     "cardNameIdentifier": "name",
     "cardNameIsUnique": true,

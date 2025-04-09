@@ -12,7 +12,11 @@
     "allCardsUrlWrapped": false,
     "allCardsUrlZipped": false,
     "deckUrls": [
-        "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/decks/Mesa%20SoM.txt"
+        {
+            "name": "Mesa SoM",
+            "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/decks/Mesa%20SoM.txt",
+            "type": "text"
+        }
     ],
     "bannerImageFileType": "png",
     "bannerImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Sumar%20o%20morir/Banner.png",

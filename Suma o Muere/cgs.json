@@ -1,17 +1,17 @@
 {
   "name": "Suma o Muere",
-  "allCardsUrl": "https://github.com/rodalvis-sys/Suma-o-muere/blob/main/Suma%20o%20Muere/AllCards.json",
+  "allCardsUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Suma%20o%20Muere/AllCards.json",
   "allSetsUrl": "",
   "autoUpdateUrl": "",
-  "bannerImageUrl": "https://github.com/rodalvis-sys/Suma-o-muere/blob/main/Suma%20o%20Muere/Banner.png",
+  "bannerImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Suma%20o%20Muere/Banner.png",
   "cardBackFaceImageUrls": [
     {
       "id": "DEFAULT_BACK",
-      "url": "https://github.com/rodalvis-sys/Suma-o-muere/blob/main/Suma%20o%20Muere/CardBack.png"
+      "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Suma%20o%20Muere/CardBack.png"
     }
   ],
-  "cardBackImageUrl": "https://github.com/rodalvis-sys/Suma-o-muere/blob/main/Suma%20o%20Muere/CardBack.png",
-  "cardImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/refs/heads/main/Suma%20o%20Muere/sets/suma%20o%20muere/{cardId}.png",
+  "cardBackImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Suma%20o%20Muere/CardBack.png",
+  "cardImageUrl": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Suma%20o%20Muere/sets/suma%20o%20muere/{cardId}.png",
   "cardProperties": [
     {
       "name": "description",
@@ -26,7 +26,7 @@
   "deckUrls": [
     {
       "name": "Mesa SoM",
-      "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/refs/heads/main/Suma%20o%20Muere/decks/Mesa%20SoM.txt"
+      "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Suma%20o%20Muere/decks/Mesa%20SoM.txt"
     }
   ],
   "enums": [],
@@ -34,7 +34,7 @@
   "gameStartDecks": [
     {
       "name": "Mesa SoM",
-      "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/refs/heads/main/Suma%20o%20Muere/decks/Mesa%20SoM.txt"
+      "url": "https://raw.githubusercontent.com/rodalvis-sys/Suma-o-muere/main/Suma%20o%20Muere/decks/Mesa%20SoM.txt"
     }
   ],
   "gameStartHandCount": 5,

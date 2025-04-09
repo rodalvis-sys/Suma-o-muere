@@ -97,6 +97,7 @@ El juego termina cuando:
 ## Sugerencias
 
 - Puedes modificar la cantidad de puntos iniciales para partidas más largas o más rápidas.
+- Se recomienda usar un puntaje inicial que sea divisible entre 2 y 3 o multiplo de 6 (6, 12, 18, 24, 30, 36, 42, 48, 54, 60) 
 - Aunque está diseñado para **2 jugadores**, se puede adaptar para **3 o más jugadores** haciendo ajustes como repartir menos cartas al inicio.
 
 --- 

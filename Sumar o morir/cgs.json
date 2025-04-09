@@ -19,6 +19,10 @@
       "type": "string"
     }
   ],
+    "cardSize": {
+    "x": 3.0,
+    "y": 4.2
+  },
   "deckUrls": [
     {
       "name": "Mesa SoM",

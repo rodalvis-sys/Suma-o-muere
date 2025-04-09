@@ -24,7 +24,6 @@
     "cardIdIdentifier": "id",
     "cardNameIdentifier": "name",
     "cardNameIsUnique": true,
-    "cardPrimaryProperty": "description",
     "cardProperties": [
         {
             "name": "description",

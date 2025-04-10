@@ -6,7 +6,7 @@ Un juego rápido de estrategia matemática donde cada carta puede cambiar tu des
 
 ## Contenido del mazo
 
-- **108 cartas** divididas en:
+- **118 cartas** divididas en:
   - Cartas numéricas: (+, −, ×, ÷)
   - Cartas especiales con efectos únicos.
 

@@ -20,7 +20,7 @@ Un juego rápido de estrategia matemática donde cada carta puede cambiar tu des
 
 ## Preparación
 
-1. Cada jugador comienza con **X puntos** (por ejemplo, 10 o 20).
+1. Cada jugador comienza con **X puntos** (por ejemplo, 12 o 18).
 2. Baraja el mazo.
 3. Reparte **5 cartas** a cada jugador.
 4. El resto forma el mazo de robo.

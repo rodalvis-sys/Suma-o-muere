@@ -8,12 +8,12 @@
 6 ×3
 4 ÷2
 4 ÷3
-4 Intercambio de puntos
+4 Intercambio_de_puntos_
 7 Protección
-7 Doble turno
+7 Doble_turno_
 7 Anular
-7 Cambio de signo
-4 Robar puntos
+7 Cambio_de_signo_
+4 Robar_puntos_
 6 Bloqueo
-4 Reinicio parcial
+4 Reinicio_parcial_
 4 Descartar
